@@ -1,9 +1,11 @@
+import UnoCSS from "unocss/vite";
 import { vitePlugin as remix } from "@remix-run/dev";
 import { defineConfig } from "vite";
 import tsconfigPaths from "vite-tsconfig-paths";
 
 export default defineConfig({
   plugins: [
+    UnoCSS(),
     remix({
       future: {
         v3_fetcherPersist: true,

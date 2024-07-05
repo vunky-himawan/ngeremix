@@ -1,3 +1,7 @@
+# Learning Remix
+
+![Gambar Sederhana](https://github.com/vunky-himawan/ngeremix/assets/69801752/7aa573dc-e05f-48c2-b3fe-7664451f297e)
+
 # Welcome to Remix!
 
 - 📖 [Remix docs](https://remix.run/docs)
